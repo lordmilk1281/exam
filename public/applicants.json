@@ -1,0 +1,122 @@
+[
+	{
+		"id": 1,
+		"name": "Ahmed Ali",
+		"age": 24,
+		"email": "ahmedali01@email.com",
+		"address": {
+			"name": "Red Rose",
+			"street": "Fareedhee Magu"
+		},
+		"phone": "7000001",
+		"application": {
+			"position": "Front-end Developer",
+			"startDate": "10/09/2023"
+		}
+	},
+	{
+		"id": 2,
+		"name": "Aishath Waheed",
+		"age": 26,
+		"email": "aishath@email.com",
+		"address": {
+			"name": "Curry Leaf",
+			"street": "Haveeree Hingun"
+		},
+		"phone": "7000002",
+		"application": {
+			"position": "Front-end Developer",
+			"startDate": "10/09/2023"
+		}
+	},
+	{
+		"id": 3,
+		"name": "Mohamed Hussain",
+		"age": 32,
+		"email": "mohamed1234@email.com",
+		"address": {
+			"name": "Jasmine Flower",
+			"street": "Handhuvaree Hingun"
+		},
+		"phone": "7000003",
+		"application": {
+			"position": "Full-Stack Developer",
+			"startDate": "24/09/2023"
+		}
+	},
+	{
+		"id": 4,
+		"name": "Waheeda Latheef",
+		"age": 18,
+		"email": "wahy.wahyda@email.com",
+		"address": {
+			"name": "Jasmine Flower",
+			"street": "Handhuvaree Hingun"
+		},
+		"phone": "7000004",
+		"application": {
+			"position": "Front-end Developer",
+			"startDate": "15/09/2023"
+		}
+	},
+	{
+		"id": 5,
+		"name": "Jamsheedha Mohamed",
+		"age": 20,
+		"email": "jammy.jamshyda@email.com",
+		"address": {
+			"name": "Akatsuki",
+			"street": "Ameer Ahmed Magu"
+		},
+		"phone": "7000005",
+		"application": {
+			"position": "Front-end Developer",
+			"startDate": "15/09/2023"
+		}
+	},
+	{
+		"id": 6,
+		"name": "Mueen Mohamed",
+		"age": 25,
+		"email": "jammy.jamshyda@email.com",
+		"address": {
+			"name": "Huravee House",
+			"street": "Dharumavantha Magu"
+		},
+		"phone": "7000006",
+		"application": {
+			"position": "Front-end Developer",
+			"startDate": "17/09/2023"
+		}
+	},
+	{
+		"id": 7,
+		"name": "Rasheed Ali",
+		"age": 35,
+		"email": "rasheedal1@email.com",
+		"address": {
+			"name": "Forest",
+			"street": "Finifenmaa Goalhi"
+		},
+		"phone": "7000007",
+		"application": {
+			"position": "Front-end Developer",
+			"startDate": "17/09/2023"
+		}
+	},
+    {
+		"id": 8,
+		"name": "Rasheed Ali",
+		"age": 35,
+		"email": "rasheedal1@email.com",
+		"address": {
+			"name": "Forest",
+			"street": "Finifenmaa Goalhi"
+		},
+		"phone": "7000007",
+		"application": {
+			"position": "Front-end Developer",
+			"startDate": "17/09/2023"
+		}
+	}
+]
